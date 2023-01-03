@@ -2,7 +2,7 @@
 this is one of the task that was given to me during the internship at The Sparks Foundation(TFS) i.e GRIP(Graduate Rotational Internship Program)
 # Task 1
 # Prediction Using Supervised ML
-Predict the percentage of an student based on the no. of study hours.
+Predict the percentage of a student based on the no. of study hours.
 
 ● This is a simple linear regression task as it involves just 2 variables.
 
